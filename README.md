@@ -52,19 +52,7 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
 <br clear="both">
-
-<img align="right" height="200" src="https://media1.tenor.com/m/F22BAOorxHQAAAAC/work.gif"  />
-
-###
 
 <h2 align="left">👷🏻‍♂️ Experience</h2>
 
@@ -79,6 +67,10 @@
 ###
 
 <br clear="both">
+
+<img align="right" height="200" src="https://media1.tenor.com/m/F22BAOorxHQAAAAC/work.gif"  />
+
+###
 
 <h3 align="left">Full Stack Developer · Binapps</h3>
 
@@ -100,9 +92,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/bluefirea25/bluefirea25/output/snake.svg" alt="Snake animation" />
 
 ###
