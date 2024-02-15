@@ -76,15 +76,11 @@
 
 <br clear="both">
 
-<h2 align="left">💼 Portfolio</h2>
+<h2 align="left">💼 Portfolio and Socials</h2>
 
 ###
 
 <p align="left">https://sebastianibaguecastro.netlify.app/</p>
-
-###
-
-<h2 align="left">📧 Socials</h2>
 
 ###
 
