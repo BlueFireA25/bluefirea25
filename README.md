@@ -66,12 +66,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://media1.tenor.com/m/F22BAOorxHQAAAAC/work.gif"  />
-
-###
-
 <h3 align="left">Full Stack Developer · Binapps</h3>
 
 ###
@@ -80,14 +74,23 @@
 
 ###
 
+<br clear="both">
+
+<h2 align="left">💼 Portfolio</h2>
+
+###
+
+<p align="left">https://sebastianibaguecastro.netlify.app/</p>
+
+###
+
 <h2 align="left">📧 Socials</h2>
 
 ###
 
+<br clear="both">
+
 <div align="left">
-  <a href="sebastian.castroa25@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/sebastianibaguecastro/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
